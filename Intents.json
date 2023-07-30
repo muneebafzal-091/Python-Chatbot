@@ -1,0 +1,18 @@
+{"intents":  [
+  {"tag":  "greetings",
+  "patterns": ["hello", "hey", "hi", "good day", "greetings", "what's up", "how is it going?"],
+  "responses": ["Hello!", "Hey!", "What can I do for you?"]
+  },
+  {"tag":  "goodbye",
+  "patterns": ["cya", "see you later", "I am leaving", "Have a good day", "bye", "see ya"],
+  "responses": ["talk to you later", "Good bye"]
+  },
+  {"tag":  "age",
+  "patterns": ["how old are you?", "what is your age?", "when's your birthday"],
+  "responses": ["I am a Chatbot. I was developed on 29 July, 2023"]
+  },
+  {"tag":  "name",
+  "patterns": ["what is your name?", "what should I call you?", "who are you?", "can you tell me your name?"],
+  "responses": ["My name is Enigma", "You can call me Enigma"]
+  }
+]}
